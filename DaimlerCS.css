@@ -2,7 +2,7 @@
 @font-face {
 	font-family: 'CorpoS';
 	src:
-		url('https://www.daimler.com/system/fonts/daimler-cs-regular-woff.woff') format('woff2);
+		url('https://www.daimler.com/system/fonts/daimler-cs-regular-woff.woff');
 	font-weight: normal;
 	font-style: normal;
 }
