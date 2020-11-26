@@ -1,0 +1,8 @@
+/* Daimler Standard Font */
+@font-face {
+	font-family: 'CorpoS';
+	src:
+		url('https://www.daimler.com/system/fonts/daimler-cs-regular-woff.woff') format('woff2);
+	font-weight: normal;
+	font-style: normal;
+}
