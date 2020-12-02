@@ -3,6 +3,8 @@
 	font-family: 'CorpoS';
 	src:
 		url('https://van-dwh.github.io/daimler-cs-regular-woff.woff') format('woff');
-	
+		url('https://van-dwh.github.io/DaimlerCS-Bold.woff') format('woff');
+		url('https://van-dwh.github.io/DaimlerCS-Italic.woff') format('woff');
+		
 	local: CorpoS;
 }
