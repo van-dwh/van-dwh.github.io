@@ -1,0 +1,8 @@
+/* Daimler Standard Font */
+@font-face {
+	font-family: 'CorpoA';
+	src:
+		url('https://van-dwh.github.io/daimler-ca-regular-woff.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
