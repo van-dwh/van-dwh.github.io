@@ -8,7 +8,7 @@
 	    }
 
 @font-face {
-	font-family: 'CorpoS-Bold';
+	font-family: 'CorpoS';
 	src:
 		url('https://van-dwh.github.io/DaimlerCS-Bold.woff') format('woff');
 		font-weight: bold;
@@ -16,7 +16,7 @@
 	    }
 
 @font-face {
-	font-family: 'CorpoS-Italic';
+	font-family: 'CorpoS';
 	src:
 		url('https://van-dwh.github.io/DaimlerCS-Italic.woff') format('woff');
 		font-weight: normal;
