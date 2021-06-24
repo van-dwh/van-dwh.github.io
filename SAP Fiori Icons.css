@@ -1,0 +1,9 @@
+/*SAP Fiori Icons*/
+
+@font-face {
+	font-family: 'SAP Fiori Icons';
+	src:
+		url('https://van-dwh.github.io/SAP-icons.woff2') format('woff2');
+		font-weight: normal;
+		font-style: normal;
+	    }
